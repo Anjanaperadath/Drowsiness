@@ -38,7 +38,8 @@ The EAR is calculated using the distance between six specific points around each
      A = ||p2 - p6||
      B = ||p3 - p5||
      C = ||p1 - p4||
-EAR = (A + B) / (2.0 * C)
+   
+# EAR = (A + B) / (2.0 * C)
 
 If the EAR falls below a set threshold (e.g., 0.25) for more than 4 seconds, the system activates the alert.
 
