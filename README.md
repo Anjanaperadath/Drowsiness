@@ -14,12 +14,12 @@ A real-time computer vision system to detect driver drowsiness using **Eye Aspec
 
   Library                    Purpose                         
 
-   OpenCV             Real-time video feed & drawing  
-   MediaPipe          Facial landmarks detection     
-   NumPy              Efficient numerical operations  
-   Pygame             Audio alert system                 
-   Threading          Run alarm without freezing UI   
-   time               Timing drowsy intervals         
+   OpenCV  -           Real-time video feed & drawing  
+   MediaPipe-          Facial landmarks detection     
+   NumPy -             Efficient numerical operations  
+   Pygame -            Audio alert system                 
+   Threading -         Run alarm without freezing UI   
+   time -              Timing drowsy intervals         
 
 
 ## ⚙️ How It Works
